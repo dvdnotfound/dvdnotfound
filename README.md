@@ -6,7 +6,7 @@
 Meu nome é David, eu sou Bacharel em Ciência e Tecnologia e sigo minha caminhada transformando chocolate em código, ficando cada dia mais próximo do Full Stack!
 - 👨🏻‍💻 Front-end Jr.
 - 🔍   Atualmente aberto a novas oportunidades.
-- ⚙️  HTML5, CSS3, Typescript e ES6
+- ⚙️  HTML5, CSS3, ES6, Typescript
 - 📰 Estudando Node.js, React e React-Native.
 - 📡 Neste momento busco colaborar com projetos Front-end.
 - 💬 Sobre mim: Aficionado por games, séries de comédia e astronomia!
