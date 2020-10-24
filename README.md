@@ -9,4 +9,4 @@ Meu nome é David, eu sou Bacharel em Ciência e Tecnologia e sigo minha caminha
 - ⚙️  HTML5, CSS3, ES6, Typescript
 - 📰 Estudando Node.js, React e React-Native.
 - 📡 Neste momento busco colaborar com projetos Front-end.
-- 💬 Sobre mim: Aficionado por games, séries de comédia e astronomia!
+- 💬 Sobre mim: Aficionado por games, séries de comédia e astronomia!!
