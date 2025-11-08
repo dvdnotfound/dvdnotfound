@@ -7,14 +7,6 @@
 
 💻 Atuo como Desenvolvedor Back-End, com foco em Java e Spring Boot, construindo soluções escaláveis, seguras e de alta performance. Tenho experiência no desenvolvimento de REST APIs e Microservices, sempre aplicando boas práticas como Clean Architecture, SOLID, testes automatizados e CI/CD.
 
-🚀 Minha stack inclui Java, Spring Boot, AWS, Docker e Kubernetes, além de integração com bancos de dados relacionais e não relacionais, sempre com foco em alta disponibilidade, resiliência e escalabilidade das aplicações.
-
-✅ Também valorizo a colaboração em times ágeis (Scrum/Kanban), adoção de DevOps e uso de ferramentas modernas que impulsionam a entrega contínua e a qualidade do software.
-
-💡 Tenho facilidade em aprender rapidamente novas tecnologias, sou proativo, organizado e comprometido em entregar soluções que gerem valor real para o negócio.
-
-🧩 Tecnologias & Ferramentas
-
 Back-End:
 → Java, Spring Boot, Spring Cloud, REST API, Microservices, Maven, Gradle, JUnit, Mockito.
 
@@ -26,8 +18,3 @@ Banco de Dados:
 
 Metodologias & Boas Práticas:
 → SOLID, Clean Code, Clean Architecture, Design Patterns, TDD, BDD, Agile (Scrum/Kanban).
-
-🚀 Projetos & Portfólio
-Convido você a conhecer meus projetos no GitHub e acompanhar minha evolução:
-
-• GitHub: github.com/dvdnotfound
